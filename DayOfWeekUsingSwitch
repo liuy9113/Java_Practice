@@ -6,7 +6,7 @@ class Test{
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         
-        switch (num) {
+        switch (num) { // useful in menu driven programs
             case 1:System.out.println("MON");
                 //break;
             case 2:System.out.println("TUE");
